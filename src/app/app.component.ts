@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'hemaKitchen_website_ecommerce';
+  title = 'cloudkitchenweb';
 }
